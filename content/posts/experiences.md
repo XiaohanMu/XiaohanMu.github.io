@@ -6,6 +6,7 @@ tags = ["experience", "career"]
 categories = ["Career"]
 summary = "A brief overview of my work experiences over the past few years. Click to see more details"
 +++
+
 ## My Work Experiences
 Here is a detailed overview of my work history:
 
