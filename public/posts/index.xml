@@ -13,21 +13,21 @@
       <link>//localhost:1313/posts/education/</link>
       <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
       <guid>//localhost:1313/posts/education/</guid>
-      <description>B.S. in University of Illinois Urbana Champaign</description>
-    </item>
-    <item>
-      <title>My Projects</title>
-      <link>//localhost:1313/posts/project/</link>
-      <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
-      <guid>//localhost:1313/posts/project/</guid>
-      <description>A brief overview of my projects over the past few years. Click to see more details</description>
+      <description>B.S. in Computer Science, University of Illinois Urbana Champaign</description>
     </item>
     <item>
       <title>My Work Experiences</title>
       <link>//localhost:1313/posts/experiences/</link>
       <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
       <guid>//localhost:1313/posts/experiences/</guid>
-      <description>A brief overview of my work experiences over the past few years. Click to see more details</description>
+      <description>Software Engineer Intern at ZTE Corporation, Research Assistant at UIUC</description>
+    </item>
+    <item>
+      <title>My Projects</title>
+      <link>//localhost:1313/posts/project/</link>
+      <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
+      <guid>//localhost:1313/posts/project/</guid>
+      <description>Image Quilting Algorithm Implementation, EasyShare, Memorandum App</description>
     </item>
   </channel>
 </rss>
