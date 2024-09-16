@@ -43,5 +43,17 @@
   </url><url>
     <loc>//localhost:1313/about/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/journal/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/southeastasia/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/traveljournal/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -22,5 +22,12 @@
       <guid>//localhost:1313/categories/education/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Journal</title>
+      <link>//localhost:1313/categories/journal/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/journal/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

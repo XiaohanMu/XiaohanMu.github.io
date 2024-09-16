@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journals on Alan Mu</title>
+    <link>//localhost:1313/journals/</link>
+    <description>Recent content in Journals on Alan Mu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/journals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>South East Asia</title>
+      <link>//localhost:1313/journals/southeastasia/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/southeastasia/</guid>
+      <description>&lt;p&gt;Date: Aug 1st - Aug 12th&lt;/p&gt;&#xA;&lt;h2 id=&#34;812024--hoo-chi-minh-city&#34;&gt;&lt;strong&gt;8.1/2024  Hoo Chi Minh City&lt;/strong&gt; &lt;a href=&#34;#812024--hoo-chi-minh-city&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/sample_bricks.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/quilt_sample_cut.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
