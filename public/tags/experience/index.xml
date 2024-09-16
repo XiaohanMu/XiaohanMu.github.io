@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experience on Alan Mu</title>
-    <link>http://localhost:1313/tags/experience/</link>
+    <link>//localhost:1313/tags/experience/</link>
     <description>Recent content in Experience on Alan Mu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Sep 2024 04:02:13 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Education</title>
+      <link>//localhost:1313/posts/education/</link>
+      <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
+      <guid>//localhost:1313/posts/education/</guid>
+      <description>B.S. in University of Illinois Urbana Champaign</description>
+    </item>
     <item>
       <title>My Work Experiences</title>
-      <link>http://localhost:1313/posts/experiences/</link>
+      <link>//localhost:1313/posts/experiences/</link>
       <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
-      <guid>http://localhost:1313/posts/experiences/</guid>
+      <guid>//localhost:1313/posts/experiences/</guid>
       <description>A brief overview of my work experiences over the past few years. Click to see more details</description>
     </item>
   </channel>

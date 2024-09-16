@@ -1,5 +1,5 @@
 +++
-title = 'Project'
+title = 'My Projects'
 date = 2024-09-16T04:02:13-05:00
 draft = true
 tags = ["project", "career"]
