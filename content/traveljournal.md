@@ -9,4 +9,6 @@ categories = ["Journal"]
 
 Welcome to my Travel Journal! Here, I document my adventures from all over the world.
 
+## **[Mexico](/journals/mexico)**
+
 ## **[South-East Asia](/journals/southeastasia)**

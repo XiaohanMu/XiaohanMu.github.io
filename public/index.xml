@@ -37,6 +37,13 @@
       <description>&lt;p&gt;Hi, I&amp;rsquo;m Alan Mu. I enjoy coding, traveling, hiking, and learning Spanish, also a fan of Marathon.&#xA;Check out my &lt;a href=&#34;//localhost:1313/traveljournal&#34;&gt;Travel Journal&lt;/a&gt; for more details about my adventures.&#xA;Here I attach my &lt;a href=&#34;//localhost:1313/files/resume.pdf&#34;&gt;Resume&lt;/a&gt; and &lt;a href=&#34;//localhost:1313/files/UIUCtranscript.pdf&#34;&gt;Transcript&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Mexico</title>
+      <link>//localhost:1313/journals/mexico/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/mexico/</guid>
+      <description>&lt;p&gt;Date: March 9th - March 14th&lt;/p&gt;&#xA;&lt;h2 id=&#34;392024---3142024--mexico-city&#34;&gt;&lt;strong&gt;3.9/2024 - 3.14/2024  Mexico City&lt;/strong&gt; &lt;a href=&#34;#392024---3142024--mexico-city&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/HCMC1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
       <title>South East Asia</title>
       <link>//localhost:1313/journals/southeastasia/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
@@ -48,7 +55,7 @@
       <link>//localhost:1313/traveljournal/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/traveljournal/</guid>
-      <description>&lt;p&gt;Welcome to my Travel Journal! Here, I document my adventures from all over the world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;south-east-asiajournalssoutheastasia&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/southeastasia&#34;&gt;South-East Asia&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#south-east-asiajournalssoutheastasia&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;</description>
+      <description>&lt;p&gt;Welcome to my Travel Journal! Here, I document my adventures from all over the world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mexicojournalsmexico&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/mexico&#34;&gt;Mexico&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#mexicojournalsmexico&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;south-east-asiajournalssoutheastasia&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/southeastasia&#34;&gt;South-East Asia&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#south-east-asiajournalssoutheastasia&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>
