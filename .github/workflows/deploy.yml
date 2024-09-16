@@ -26,4 +26,4 @@ jobs:
       with:
         personal_token: ${{ secrets.PERSONAL_TOKEN }}
         publish_dir: ./public
-        external_repository: XiaohanMu/AlanMu.github.io
+        external_repository: XiaohanMu/XiaohanMu.github.io
