@@ -26,10 +26,16 @@
     <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/journals/japan/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/journal/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/life/</loc>
+    <loc>//localhost:1313/journals/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/hiking/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/nanjing/</loc>
@@ -41,7 +47,7 @@
     <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>//localhost:1313/journals/southafrica/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/education/</loc>
@@ -53,19 +59,15 @@
     <loc>//localhost:1313/journals/canada/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/journals/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/journals/mexico/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/journals/southeastasia/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/travel/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/traveljournal/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

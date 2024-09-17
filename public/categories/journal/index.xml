@@ -9,6 +9,20 @@
     <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/journal/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Japan</title>
+      <link>//localhost:1313/journals/japan/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/japan/</guid>
+      <description>&lt;h2 id=&#34;tokyo&#34;&gt;&lt;strong&gt;Tokyo&lt;/strong&gt; &lt;a href=&#34;#tokyo&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/JP1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;nara&#34;&gt;&lt;strong&gt;Nara&lt;/strong&gt; &lt;a href=&#34;#nara&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/JP2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;kyoto&#34;&gt;&lt;strong&gt;Kyoto&lt;/strong&gt; &lt;a href=&#34;#kyoto&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/JP3.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Notes of some hiking trails</title>
+      <link>//localhost:1313/hiking/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hiking/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/hk5.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Mount Tai(first time solo trip), Shandong&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/hk4.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Daocheng Yading, Sichuan&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/hk1.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Upper Yosemite Fall Trail, CA&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/hk2.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Yosemite Mist Trail(Mirror Lake, Nevada Fall, Vernal Fall), CA&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/hk3.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Okutama hiking trail, Japan&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
       <title>Photo dump of my life in Jiangsu</title>
       <link>//localhost:1313/nanjing/</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
@@ -23,6 +37,13 @@
       <description>&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/Ur1.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Urbana&amp;rsquo;s winter&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/Ur2.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Siebel Computer Science Center&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/Ur3.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Main quad&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/Ur4.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Grainger Library&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/Ur5.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Futou, little kitty in my home&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
+      <title>South Africa</title>
+      <link>//localhost:1313/journals/southafrica/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/southafrica/</guid>
+      <description>&lt;p&gt;A family trip with my sister and parents.&lt;/p&gt;&#xA;&lt;h2 id=&#34;johannesburg&#34;&gt;&lt;strong&gt;Johannesburg&lt;/strong&gt; &lt;a href=&#34;#johannesburg&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SA1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Safari&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;cape-town&#34;&gt;&lt;strong&gt;Cape town&lt;/strong&gt; &lt;a href=&#34;#cape-town&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SA2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Cape of good hope&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SA3.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Table Mountain&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SA4.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
       <title>Canada</title>
       <link>//localhost:1313/journals/canada/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
@@ -34,7 +55,7 @@
       <link>//localhost:1313/journals/mexico/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/journals/mexico/</guid>
-      <description>&lt;h2 id=&#34;mexico-city&#34;&gt;&lt;strong&gt;Mexico City&lt;/strong&gt; &lt;a href=&#34;#mexico-city&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/CDMX1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;&#xD;&#xA;    &lt;source src=&#34;//localhost:1313/videos/CDMX1.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;    Your browser does not support the video tag.&#xD;&#xA;  &lt;/video&gt;</description>
+      <description>&lt;h2 id=&#34;mexico-city&#34;&gt;&lt;strong&gt;Mexico City&lt;/strong&gt; &lt;a href=&#34;#mexico-city&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/CDMX1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Plaza de la constitucíon&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;&#xD;&#xA;    &lt;source src=&#34;//localhost:1313/videos/CDMX1.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;    Your browser does not support the video tag.&#xD;&#xA;  &lt;/video&gt;&#xD;&#xA;  &#xA;&lt;p&gt;Pirámide del Sol&lt;/p&gt;</description>
     </item>
     <item>
       <title>South East Asia</title>
@@ -48,7 +69,7 @@
       <link>//localhost:1313/traveljournal/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/traveljournal/</guid>
-      <description>&lt;p&gt;Welcome to my Travel Journal! Here, I document my adventures from all over the world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;canadajournalscanada&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/canada&#34;&gt;Canada&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#canadajournalscanada&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;mexicojournalsmexico&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/mexico&#34;&gt;Mexico&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#mexicojournalsmexico&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;south-east-asiajournalssoutheastasia&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/southeastasia&#34;&gt;South-East Asia&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#south-east-asiajournalssoutheastasia&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;</description>
+      <description>&lt;p&gt;Welcome to my Travel Journal! Here, I document my adventures from all over the world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;south-africajournalssouthafrica&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/SouthAfrica&#34;&gt;South Africa&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#south-africajournalssouthafrica&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;canadajournalscanada&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/canada&#34;&gt;Canada&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#canadajournalscanada&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;mexicojournalsmexico&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/mexico&#34;&gt;Mexico&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#mexicojournalsmexico&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;japanjournalsjapan&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/japan&#34;&gt;Japan&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#japanjournalsjapan&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;south-east-asiajournalssoutheastasia&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/southeastasia&#34;&gt;South-East Asia&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#south-east-asiajournalssoutheastasia&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>

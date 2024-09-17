@@ -7,7 +7,7 @@ categories = ["Journal"]
 +++
 
 Welcome to my Travel Journal! Here, I document my adventures from all over the world.
-## **[South Africa](/journals/SouthAfrica)**
+## **[South Africa](/journals/southafrica)**
 
 ## **[Canada](/journals/canada)**
 
