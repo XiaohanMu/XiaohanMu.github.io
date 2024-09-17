@@ -106,9 +106,25 @@
 
 &lt;figure>&lt;img src="XiaohanMu.github.io/images/SA4.jpg"
  alt="Example small sample" width="200px">
+&lt;/figure></description></item><item><title>South East Asia</title><link>XiaohanMu.github.io/journals/southeastasia/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/southeastasia/</guid><description>&lt;h2 id="hoo-chi-minh-city">&lt;strong>Hoo Chi Minh City&lt;/strong>&lt;/h2>
+&lt;figure>&lt;img src="XiaohanMu.github.io/images/HCMC1.jpg"
+ alt="Example" width="200px">&lt;figcaption>
+ &lt;p>Pho!&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h2 id="siem-reap">&lt;strong>Siem Reap&lt;/strong>&lt;/h2>
+&lt;figure>&lt;img src="XiaohanMu.github.io/images/SR1.jpg"
+ alt="Example" width="200px">&lt;figcaption>
+ &lt;p>Memorable three days exploring Angkor Wat&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h2 id="bangkok">&lt;strong>Bangkok&lt;/strong>&lt;/h2>
+&lt;figure>&lt;img src="XiaohanMu.github.io/images/BK1.jpg"
+ alt="Example" width="200px">
 &lt;/figure></description></item><item><title>A Glimpse Into My Life</title><link>XiaohanMu.github.io/about/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/about/</guid><description>&lt;p>Hola, I&amp;rsquo;m Alan Mu, a 20-years-old junior at UIUC. I enjoy coding, traveling, &lt;a href="XiaohanMu.github.io/hiking">hiking&lt;/a>, and learning Spanish, also a fan of Marathon. Check out my &lt;a href="XiaohanMu.github.io/traveljournal">Travel Journal&lt;/a> for more details about my adventures.&lt;br>
-I spent my childhood in &lt;a href="XiaohanMu.github.io/nanjing">Nanjing&lt;/a>, Jiangsu, and currently living in &lt;a href="XiaohanMu.github.io/urbana">Urbana&lt;/a>, IL.&lt;/p>
-&lt;!-- raw HTML omitted --></description></item><item><title>Canada</title><link>XiaohanMu.github.io/journals/canada/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/canada/</guid><description>&lt;h2 id="mississauga">&lt;strong>Mississauga&lt;/strong>&lt;/h2>
+I spent my childhood in &lt;a href="XiaohanMu.github.io/nanjing">Nanjing&lt;/a>, Jiangsu, and currently living in &lt;a href="XiaohanMu.github.io/urbana">Urbana&lt;/a>, IL.&lt;/p></description></item><item><title>Canada</title><link>XiaohanMu.github.io/journals/canada/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/canada/</guid><description>&lt;h2 id="mississauga">&lt;strong>Mississauga&lt;/strong>&lt;/h2>
 &lt;figure>&lt;img src="XiaohanMu.github.io/images/CA1.jpg"
  alt="Example" width="200px">&lt;figcaption>
  &lt;p>After driving one day and night through the snowstorm from Chicago to Ontario&lt;/p>
@@ -142,25 +158,8 @@ By the way, winters in Toronto can get pretty chilly!&lt;/p>
  Your browser does not support the video tag.
  &lt;/video>
  
-&lt;p>Pirámide del Sol&lt;/p></description></item><item><title>South East Asia</title><link>XiaohanMu.github.io/journals/southeastasia/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/southeastasia/</guid><description>&lt;h2 id="hoo-chi-minh-city">&lt;strong>Hoo Chi Minh City&lt;/strong>&lt;/h2>
-&lt;figure>&lt;img src="XiaohanMu.github.io/images/HCMC1.jpg"
- alt="Example" width="200px">&lt;figcaption>
- &lt;p>Pho!&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;h2 id="siem-reap">&lt;strong>Siem Reap&lt;/strong>&lt;/h2>
-&lt;figure>&lt;img src="XiaohanMu.github.io/images/SR1.jpg"
- alt="Example" width="200px">&lt;figcaption>
- &lt;p>Memorable three days exploring Angkor Wat&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;h2 id="bangkok">&lt;strong>Bangkok&lt;/strong>&lt;/h2>
-&lt;figure>&lt;img src="XiaohanMu.github.io/images/BK1.jpg"
- alt="Example" width="200px">
-&lt;/figure></description></item><item><title>Travel Journal</title><link>XiaohanMu.github.io/traveljournal/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/traveljournal/</guid><description>&lt;p>Welcome to my Travel Journal! Here, I document my adventures from all over the world.&lt;/p>
-&lt;h2 id="south-africajournalssouthafrica">&lt;strong>&lt;a href="XiaohanMu.github.io/journals/SouthAfrica">South Africa&lt;/a>&lt;/strong>&lt;/h2>
+&lt;p>Pirámide del Sol&lt;/p></description></item><item><title>Travel Journal</title><link>XiaohanMu.github.io/traveljournal/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/traveljournal/</guid><description>&lt;p>Welcome to my Travel Journal! Here, I document my adventures from all over the world.&lt;/p>
+&lt;h2 id="south-africajournalssouthafrica">&lt;strong>&lt;a href="XiaohanMu.github.io/journals/southafrica">South Africa&lt;/a>&lt;/strong>&lt;/h2>
 &lt;h2 id="canadajournalscanada">&lt;strong>&lt;a href="XiaohanMu.github.io/journals/canada">Canada&lt;/a>&lt;/strong>&lt;/h2>
 &lt;h2 id="mexicojournalsmexico">&lt;strong>&lt;a href="XiaohanMu.github.io/journals/mexico">Mexico&lt;/a>&lt;/strong>&lt;/h2>
 &lt;h2 id="japanjournalsjapan">&lt;strong>&lt;a href="XiaohanMu.github.io/journals/japan">Japan&lt;/a>&lt;/strong>&lt;/h2>

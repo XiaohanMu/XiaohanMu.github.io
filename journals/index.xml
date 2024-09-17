@@ -34,6 +34,23 @@
 
 &lt;figure>&lt;img src="XiaohanMu.github.io/images/SA4.jpg"
  alt="Example small sample" width="200px">
+&lt;/figure></description></item><item><title>South East Asia</title><link>XiaohanMu.github.io/journals/southeastasia/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/southeastasia/</guid><description>&lt;h2 id="hoo-chi-minh-city">&lt;strong>Hoo Chi Minh City&lt;/strong>&lt;/h2>
+&lt;figure>&lt;img src="XiaohanMu.github.io/images/HCMC1.jpg"
+ alt="Example" width="200px">&lt;figcaption>
+ &lt;p>Pho!&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h2 id="siem-reap">&lt;strong>Siem Reap&lt;/strong>&lt;/h2>
+&lt;figure>&lt;img src="XiaohanMu.github.io/images/SR1.jpg"
+ alt="Example" width="200px">&lt;figcaption>
+ &lt;p>Memorable three days exploring Angkor Wat&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h2 id="bangkok">&lt;strong>Bangkok&lt;/strong>&lt;/h2>
+&lt;figure>&lt;img src="XiaohanMu.github.io/images/BK1.jpg"
+ alt="Example" width="200px">
 &lt;/figure></description></item><item><title>Canada</title><link>XiaohanMu.github.io/journals/canada/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/canada/</guid><description>&lt;h2 id="mississauga">&lt;strong>Mississauga&lt;/strong>&lt;/h2>
 &lt;figure>&lt;img src="XiaohanMu.github.io/images/CA1.jpg"
  alt="Example" width="200px">&lt;figcaption>
@@ -68,21 +85,4 @@ By the way, winters in Toronto can get pretty chilly!&lt;/p>
  Your browser does not support the video tag.
  &lt;/video>
  
-&lt;p>Pirámide del Sol&lt;/p></description></item><item><title>South East Asia</title><link>XiaohanMu.github.io/journals/southeastasia/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/southeastasia/</guid><description>&lt;h2 id="hoo-chi-minh-city">&lt;strong>Hoo Chi Minh City&lt;/strong>&lt;/h2>
-&lt;figure>&lt;img src="XiaohanMu.github.io/images/HCMC1.jpg"
- alt="Example" width="200px">&lt;figcaption>
- &lt;p>Pho!&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;h2 id="siem-reap">&lt;strong>Siem Reap&lt;/strong>&lt;/h2>
-&lt;figure>&lt;img src="XiaohanMu.github.io/images/SR1.jpg"
- alt="Example" width="200px">&lt;figcaption>
- &lt;p>Memorable three days exploring Angkor Wat&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;h2 id="bangkok">&lt;strong>Bangkok&lt;/strong>&lt;/h2>
-&lt;figure>&lt;img src="XiaohanMu.github.io/images/BK1.jpg"
- alt="Example" width="200px">
-&lt;/figure></description></item></channel></rss>
+&lt;p>Pirámide del Sol&lt;/p></description></item></channel></rss>
