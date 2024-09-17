@@ -1,5 +1,5 @@
 +++
-title = 'My Projects'
+title = 'Projects'
 date = 2024-09-16T04:02:13-05:00
 draft = true
 weight=3
@@ -9,10 +9,11 @@ summary = "Image Quilting Algorithm Implementation, EasyShare, Memorandum App"
 
 
 +++
-## **My Projects**
+## **Projects**
 Here is a detailed overview of my projects:
 
 ### **EasyShare**
+A web-based platform designed to facilitate file and message sharing between users. 
 - Backend Development: Developed a robust file and message sharing web application using **Node.js** and **Express.js**, handling real-time requests with **asynchronous functions** and scalable **RESTful API endpoints**.
 
 - Frontend Integration: Designed a responsive user interface with **HTML5**, **CSS3**, and **JavaScript**, incorporating **Bootstrap** for layout and styling. Implemented client-side file selection, validation, and messaging features.
@@ -23,6 +24,7 @@ Here is a detailed overview of my projects:
 
 
 ### **Image Quilting Algorithm Implementation**
+Texture synthesis by seamlessly combining patches from a sample texture. 
 
 - **Overlapping Patches**: Synthesized textures by randomly sampling square patches from a given sample. Selected the starting patch randomly. Iteratively sampled and filled overlapping patches based on the **sum of squared differences (SSD)** of the overlapping regions between the existing and sampled patches.
 
@@ -36,6 +38,7 @@ Here is a detailed overview of my projects:
 
 
 ### **Memorandum App**
+A task management application designed to help users organize and prioritize their tasks.
 
 - **Login Page, Registration Page, and Navigation Bar**: Used **React** to implement a login and registration page. Designed and integrated a responsive navigation bar with **React Router**. Utilized React components for efficient rendering and state management.
 

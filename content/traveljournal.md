@@ -7,7 +7,7 @@ tags = ["travel"]
 categories = ["Journal"]
 +++
 
-Welcome to my Travel Journal! Here, I document my adventures from all over the world.
+Welcome to my Travel Journal! I have been to 20 countries. Here, I document my adventures from all over the world.
 
 ## **[Mexico](/journals/mexico)**
 

@@ -1,5 +1,5 @@
 +++
-title = 'My Work Experiences'
+title = 'Work Experiences'
 date = 2024-09-16T04:02:13-05:00
 draft = false
 weight=2
@@ -8,7 +8,7 @@ categories = ["Career"]
 summary = "Software Engineer Intern at ZTE Corporation, Research Assistant at UIUC"
 +++
 
-## **My Work Experiences**
+## **Work Experiences**
 Here is a detailed overview of my work history:
 
 ### **May 2024 - August 2024: Software Engineer Intern at ZTE Corporation**
