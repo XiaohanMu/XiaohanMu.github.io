@@ -3,7 +3,6 @@ title = "Photo dump of my life in Jiangsu"
 date= 2024-09-17
 draft= false
 type= "page"
-tags = ["life"]
 categories = ["Journal"]
 +++
 

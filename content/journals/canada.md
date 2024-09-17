@@ -3,7 +3,6 @@ title = "Canada"
 date= 2024-09-16
 draft= false
 type= "page"
-tags = ["travel"]
 categories = ["Journal"]
 +++
 
