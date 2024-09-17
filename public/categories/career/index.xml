@@ -6,10 +6,10 @@
     <description>Recent content in Career on Alan Mu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2024 04:02:13 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/career/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Work Experiences</title>
+      <title>Working Experiences</title>
       <link>//localhost:1313/posts/experiences/</link>
       <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
       <guid>//localhost:1313/posts/experiences/</guid>
@@ -20,6 +20,13 @@
       <link>//localhost:1313/posts/project/</link>
       <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
       <guid>//localhost:1313/posts/project/</guid>
+      <description>Image Quilting Algorithm Implementation, EasyShare, Memorandum App</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>//localhost:1313/posts/resume/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/resume/</guid>
       <description>Image Quilting Algorithm Implementation, EasyShare, Memorandum App</description>
     </item>
   </channel>

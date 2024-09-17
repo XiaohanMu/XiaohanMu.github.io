@@ -3,13 +3,11 @@ title = 'Projects'
 date = 2024-09-16T04:02:13-05:00
 draft = true
 weight=3
-tags = ["project", "career"]
 categories = ["Career"]
 summary = "Image Quilting Algorithm Implementation, EasyShare, Memorandum App"
 
 
 +++
-## **Projects**
 Here is a detailed overview of my projects:
 
 ### **EasyShare**
@@ -30,8 +28,8 @@ Texture synthesis by seamlessly combining patches from a sample texture.
 
 - **Seam Finding Algorithm**: Incorporated seam finding to remove edge artifacts from the overlapping patches by finding the **min-cost path** from the left to the right side of the patch.
 
-{{< figure src="/images/sample_bricks.jpg" alt="Example small sample" width="200px" >}}
-{{< figure src="/images/quilt_sample_cut.jpg" alt="Example" width="200px" >}}
+{{< figure src="/images/sample_bricks.jpg" alt="Example small sample" width="200px" caption="Small Brick Sample" >}}
+{{< figure src="/images/quilt_sample_cut.jpg" alt="Example" width="200px" caption="Quilted Texture result">}}
 
 
 
