@@ -1,45 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Life on Alan Mu</title><link>XiaohanMu.github.io/tags/life/</link><description>Recent content in Life on Alan Mu</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="XiaohanMu.github.io/tags/life/index.xml" rel="self" type="application/rss+xml"/><item><title>Photo dump of my life in Jiangsu</title><link>XiaohanMu.github.io/nanjing/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/nanjing/</guid><description>&lt;figure>&lt;img src="XiaohanMu.github.io/images/NJ1.jpg"
- alt="Example" width="200px">&lt;figcaption>
- &lt;p>Xuanwu Lake&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;figure>&lt;img src="XiaohanMu.github.io/images/NJ2.jpg"
- alt="Example" width="200px">&lt;figcaption>
- &lt;p>A view from Mount Zijin&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;figure>&lt;img src="XiaohanMu.github.io/images/NJ3.jpg"
- alt="Example" width="200px">&lt;figcaption>
- &lt;p>QQ, currently 4 years old&lt;/p>
- &lt;/figcaption>
-&lt;/figure></description></item><item><title>Photo dump of my life in Urbana</title><link>XiaohanMu.github.io/urbana/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/urbana/</guid><description>&lt;figure>&lt;img src="XiaohanMu.github.io/images/Ur1.jpg"
- alt="Example" width="200px">&lt;figcaption>
- &lt;p>Urbana&amp;rsquo;s winter&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;figure>&lt;img src="XiaohanMu.github.io/images/Ur2.jpg"
- alt="Example" width="200px">&lt;figcaption>
- &lt;p>Siebel Computer Science Center&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;figure>&lt;img src="XiaohanMu.github.io/images/Ur3.jpg"
- alt="Example" width="200px">&lt;figcaption>
- &lt;p>Main quad&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;figure>&lt;img src="XiaohanMu.github.io/images/Ur4.jpg"
- alt="Example" width="200px">&lt;figcaption>
- &lt;p>Grainger Library&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;figure>&lt;img src="XiaohanMu.github.io/images/Ur5.jpg"
- alt="Example" width="200px">&lt;figcaption>
- &lt;p>Futou, little kitty in my home&lt;/p>
- &lt;/figcaption>
-&lt;/figure></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Alan Mu</title>
+    <link>//localhost:1313/tags/life/</link>
+    <description>Recent content in Life on Alan Mu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photo dump of my life in Jiangsu</title>
+      <link>//localhost:1313/nanjing/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/nanjing/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/NJ1.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Xuanwu Lake&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/NJ2.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;A view from Mount Zijin&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/NJ3.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;QQ, currently 4 years old&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Photo dump of my life in Urbana</title>
+      <link>//localhost:1313/urbana/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/urbana/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/Ur1.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Urbana&amp;rsquo;s winter&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/Ur2.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Siebel Computer Science Center&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/Ur3.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Main quad&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/Ur4.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Grainger Library&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/Ur5.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Futou, little kitty in my home&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+  </channel>
+</rss>
