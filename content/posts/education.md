@@ -21,7 +21,8 @@ Here is a detailed overview of my education:
 ### **May 2021 - June 2021: University of Chicago Summer School**
 - Completed the Spatial Analysis and GIS course with a 4.0 grade.
 
-{{< figure src="/images/UC.png" alt="Example" width="150px" >}}
+{{< figure src="/images/UC.png" alt="Example" width="120px" style="float: right; margin-left: 100px;" >}}
+
 
 
 ### **September 2019 - May 2022: Nanjing Foreign Language School**
