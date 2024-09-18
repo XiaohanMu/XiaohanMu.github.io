@@ -20,19 +20,43 @@
     <loc>//localhost:1313/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/journals/asia/asiamd/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/career/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/journals/japan/</loc>
+    <loc>//localhost:1313/journals/chicago/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/asia/china/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/asia/eastasia/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/uk/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/euro/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/iceland/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/asia/japan/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/journal/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/journals/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/northamerica/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/hiking/</loc>
@@ -50,6 +74,15 @@
     <loc>//localhost:1313/journals/southafrica/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/journals/asia/southeastasia/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/us/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/westerneuro/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/education/</loc>
     <lastmod>2024-09-16T04:02:13-05:00</lastmod>
   </url><url>
@@ -60,9 +93,6 @@
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/journals/mexico/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/journals/southeastasia/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/traveljournal/</loc>

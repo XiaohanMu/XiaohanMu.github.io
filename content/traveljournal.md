@@ -9,12 +9,11 @@ categories = ["Journal"]
 Welcome to my Travel Journal! Here, I document my adventures from all over the world.
 ## **[South Africa](/journals/southafrica)**
 
-## **[Canada](/journals/canada)**
+## **[North America](/journals/northamerica)**
 
-## **[Mexico](/journals/mexico)**
+## **[Europe](/journals/euro)**
 
-## **[Japan](/journals/japan)**
+## **[Asia](/journals/asia/asiamd)**
 
-## **[South-East Asia](/journals/southeastasia)**
 
 

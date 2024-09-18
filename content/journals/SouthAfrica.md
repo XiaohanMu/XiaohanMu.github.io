@@ -17,4 +17,4 @@ A family trip with my sister and parents.
 
 {{< figure src="/images/SA3.jpg" alt="Example small sample" width="200px" caption="Table Mountain">}}
 
-{{< figure src="/images/SA4.jpg" alt="Example small sample" width="200px" >}}
+{{< figure src="/images/SA4.jpg" alt="Example small sample" width="200px"caption="Signal Hill top view" >}}

@@ -9,18 +9,95 @@
     <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/journals/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Japan</title>
-      <link>//localhost:1313/journals/japan/</link>
+      <title>Asia</title>
+      <link>//localhost:1313/journals/asia/asiamd/</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/journals/japan/</guid>
+      <guid>//localhost:1313/journals/asia/asiamd/</guid>
+      <description>&lt;h2 id=&#34;south-east-asiaasiasoutheastasia&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/asia/southeastasia&#34;&gt;South East Asia&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#south-east-asiaasiasoutheastasia&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Chicago</title>
+      <link>//localhost:1313/journals/chicago/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/chicago/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/ch1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/ch2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/ch3.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>China</title>
+      <link>//localhost:1313/journals/asia/china/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/asia/china/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>East Asia</title>
+      <link>//localhost:1313/journals/asia/eastasia/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/asia/eastasia/</guid>
+      <description>&lt;h2 id=&#34;chinajournalsasiachina&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/asia/china&#34;&gt;China&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#chinajournalsasiachina&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;japanjournalsasiajapan&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/asia/japan&#34;&gt;Japan&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#japanjournalsasiajapan&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>England</title>
+      <link>//localhost:1313/journals/uk/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/uk/</guid>
+      <description>&lt;p&gt;A family trip with my sister, aunt, and uncle.&lt;/p&gt;&#xA;&lt;h2 id=&#34;london&#34;&gt;&lt;strong&gt;London&lt;/strong&gt; &lt;a href=&#34;#london&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/uk1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;leeds&#34;&gt;&lt;strong&gt;Leeds&lt;/strong&gt; &lt;a href=&#34;#leeds&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/uk2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;windermere&#34;&gt;&lt;strong&gt;Windermere&lt;/strong&gt; &lt;a href=&#34;#windermere&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/uk3.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Europe</title>
+      <link>//localhost:1313/journals/euro/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/euro/</guid>
+      <description>&lt;h2 id=&#34;englandjournalsuk&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/uk&#34;&gt;England&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#englandjournalsuk&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;icelandjournalsiceland&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/iceland&#34;&gt;Iceland&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#icelandjournalsiceland&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;western-europejournalswesterneuro&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/westerneuro&#34;&gt;Western Europe&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#western-europejournalswesterneuro&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Iceland</title>
+      <link>//localhost:1313/journals/iceland/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/iceland/</guid>
+      <description>&lt;p&gt;First time cross-continent solo trip.&lt;/p&gt;&#xA;&lt;h2 id=&#34;reykjavik&#34;&gt;&lt;strong&gt;Reykjavik&lt;/strong&gt; &lt;a href=&#34;#reykjavik&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/ice1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;In Icelandic, vik means &lt;strong&gt;bay&lt;/strong&gt;. The capital city Reykjavik means &lt;strong&gt;smokey bay&lt;/strong&gt; because of the lagoon and hot water there. The place of ice and fire.&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;northern-light&#34;&gt;&lt;strong&gt;Northern Light&lt;/strong&gt; &lt;a href=&#34;#northern-light&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/ice4.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;southern-coast&#34;&gt;&lt;strong&gt;Southern Coast&lt;/strong&gt; &lt;a href=&#34;#southern-coast&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/ice2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;vik&#34;&gt;&lt;strong&gt;Vik&lt;/strong&gt; &lt;a href=&#34;#vik&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/ice3.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Japan</title>
+      <link>//localhost:1313/journals/asia/japan/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/asia/japan/</guid>
       <description>&lt;h2 id=&#34;tokyo&#34;&gt;&lt;strong&gt;Tokyo&lt;/strong&gt; &lt;a href=&#34;#tokyo&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/JP1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;nara&#34;&gt;&lt;strong&gt;Nara&lt;/strong&gt; &lt;a href=&#34;#nara&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/JP2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;kyoto&#34;&gt;&lt;strong&gt;Kyoto&lt;/strong&gt; &lt;a href=&#34;#kyoto&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/JP3.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>North America</title>
+      <link>//localhost:1313/journals/northamerica/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/northamerica/</guid>
+      <description>&lt;h2 id=&#34;canadajournalscanada&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/canada&#34;&gt;Canada&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#canadajournalscanada&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;mexicojournalsmexico&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/mexico&#34;&gt;Mexico&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#mexicojournalsmexico&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;usjournalsus&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/us&#34;&gt;US&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#usjournalsus&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>South Africa</title>
       <link>//localhost:1313/journals/southafrica/</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/journals/southafrica/</guid>
-      <description>&lt;p&gt;A family trip with my sister and parents.&lt;/p&gt;&#xA;&lt;h2 id=&#34;johannesburg&#34;&gt;&lt;strong&gt;Johannesburg&lt;/strong&gt; &lt;a href=&#34;#johannesburg&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SA1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Safari&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;cape-town&#34;&gt;&lt;strong&gt;Cape town&lt;/strong&gt; &lt;a href=&#34;#cape-town&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SA2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Cape of good hope&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SA3.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Table Mountain&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SA4.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <description>&lt;p&gt;A family trip with my sister and parents.&lt;/p&gt;&#xA;&lt;h2 id=&#34;johannesburg&#34;&gt;&lt;strong&gt;Johannesburg&lt;/strong&gt; &lt;a href=&#34;#johannesburg&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SA1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Safari&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;cape-town&#34;&gt;&lt;strong&gt;Cape town&lt;/strong&gt; &lt;a href=&#34;#cape-town&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SA2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Cape of good hope&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SA3.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Table Mountain&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SA4.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Signal Hill top view&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>South East Asia</title>
+      <link>//localhost:1313/journals/asia/southeastasia/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/asia/southeastasia/</guid>
+      <description>&lt;h2 id=&#34;hoo-chi-minh-city&#34;&gt;&lt;strong&gt;Hoo Chi Minh City&lt;/strong&gt; &lt;a href=&#34;#hoo-chi-minh-city&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/HCMC1.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Pho!&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;siem-reap&#34;&gt;&lt;strong&gt;Siem Reap&lt;/strong&gt; &lt;a href=&#34;#siem-reap&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SR1.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Memorable three days exploring Angkor Wat&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;bangkok&#34;&gt;&lt;strong&gt;Bangkok&lt;/strong&gt; &lt;a href=&#34;#bangkok&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/BK1.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>US</title>
+      <link>//localhost:1313/journals/us/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/us/</guid>
+      <description>&lt;h2 id=&#34;urbana-ilurbana-my-beloved-small-town&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/urbana&#34;&gt;Urbana, IL&lt;/a&gt;&lt;/strong&gt; my beloved small town &lt;a href=&#34;#urbana-ilurbana-my-beloved-small-town&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;chicago-iljournalschicago&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/chicago&#34;&gt;Chicago, IL&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#chicago-iljournalschicago&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Western Europe</title>
+      <link>//localhost:1313/journals/westerneuro/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/westerneuro/</guid>
+      <description>&lt;h2 id=&#34;paris&#34;&gt;&lt;strong&gt;Paris&lt;/strong&gt; &lt;a href=&#34;#paris&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/we1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;luxembourg&#34;&gt;&lt;strong&gt;Luxembourg&lt;/strong&gt; &lt;a href=&#34;#luxembourg&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/we2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;amsterdam&#34;&gt;&lt;strong&gt;Amsterdam&lt;/strong&gt; &lt;a href=&#34;#amsterdam&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/we3.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;brussel&#34;&gt;&lt;strong&gt;Brussel&lt;/strong&gt; &lt;a href=&#34;#brussel&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/we4.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Canada</title>
@@ -35,13 +112,6 @@
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/journals/mexico/</guid>
       <description>&lt;h2 id=&#34;mexico-city&#34;&gt;&lt;strong&gt;Mexico City&lt;/strong&gt; &lt;a href=&#34;#mexico-city&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/CDMX1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Plaza de la constitucíon&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;&#xD;&#xA;    &lt;source src=&#34;//localhost:1313/videos/CDMX1.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;    Your browser does not support the video tag.&#xD;&#xA;  &lt;/video&gt;&#xD;&#xA;  &#xA;&lt;p&gt;Pirámide del Sol&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>South East Asia</title>
-      <link>//localhost:1313/journals/southeastasia/</link>
-      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/journals/southeastasia/</guid>
-      <description>&lt;h2 id=&#34;hoo-chi-minh-city&#34;&gt;&lt;strong&gt;Hoo Chi Minh City&lt;/strong&gt; &lt;a href=&#34;#hoo-chi-minh-city&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/HCMC1.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Pho!&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;siem-reap&#34;&gt;&lt;strong&gt;Siem Reap&lt;/strong&gt; &lt;a href=&#34;#siem-reap&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/SR1.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Memorable three days exploring Angkor Wat&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;bangkok&#34;&gt;&lt;strong&gt;Bangkok&lt;/strong&gt; &lt;a href=&#34;#bangkok&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/BK1.jpg&#34;&#xA;    alt=&#34;Example&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>
