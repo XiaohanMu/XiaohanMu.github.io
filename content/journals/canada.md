@@ -7,7 +7,7 @@ categories = ["Journal"]
 +++
 
 ## **Mississauga**
-{{< figure src="/images/CA1.jpg" alt="Example" width="200px" caption="After driving one day and night through the snowstorm from Chicago to Ontario">}}
+{{< figure src="/images/CA1.jpg" alt="Example" width="200px" caption="After driving one day and night through the snowstorm from Chicago to Ontario in year 2022">}}
 
 ## **Toronto**
 <video width="320" height="240" controls>
@@ -18,8 +18,8 @@ categories = ["Journal"]
 
 {{< video src="/videos/CA1.mp4" width="320" height="240" >}}
 
-Cross-year fireworks over Ontario Lake.
+New Year fireworks over Ontario Lake.
 By the way, winters in Toronto can get pretty chilly!
 
 ## **Montreal**
-{{< figure src="/images/CA3.jpg" alt="Example" width="200px" caption="A unique city blending the charm of France with Canadian culture.">}}
+{{< figure src="/images/CA3.jpg" alt="Example" width="200px" caption="A unique city blending the charm of France with Canadian culture. A great trip with one of my high school classmates.">}}

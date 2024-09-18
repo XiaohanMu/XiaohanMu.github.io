@@ -15,7 +15,7 @@ First time cross-continent solo trip.
 {{< figure src="/images/ice4.jpg" alt="Example small sample" width="200px" caption="">}}
 
 ## **Southern Coast**
-{{< figure src="/images/ice2.jpg" alt="Example small sample" width="200px" caption="">}}
+{{< figure src="/images/ice2.jpg" alt="Example small sample" width="200px" caption="The most splendid scenes ever seen in my life">}}
 
 ## **Vik**
 
