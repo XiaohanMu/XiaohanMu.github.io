@@ -41,7 +41,9 @@
 
 &lt;h2 id="southern-coast">&lt;strong>Southern Coast&lt;/strong>&lt;/h2>
 &lt;figure>&lt;img src="XiaohanMu.github.io/images/ice2.jpg"
- alt="Example small sample" width="200px">
+ alt="Example small sample" width="200px">&lt;figcaption>
+ &lt;p>The most splendid scenes ever seen in my life&lt;/p>
+ &lt;/figcaption>
 &lt;/figure>
 
 &lt;h2 id="vik">&lt;strong>Vik&lt;/strong>&lt;/h2>
@@ -87,7 +89,9 @@
  alt="Example small sample" width="200px">&lt;figcaption>
  &lt;p>Signal Hill top view&lt;/p>
  &lt;/figcaption>
-&lt;/figure></description></item><item><title>South East Asia</title><link>XiaohanMu.github.io/journals/asia/southeastasia/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/asia/southeastasia/</guid><description>&lt;h2 id="hoo-chi-minh-citysaigon">&lt;strong>Hoo Chi Minh City(Saigon)&lt;/strong>&lt;/h2>
+&lt;/figure></description></item><item><title>South East Asia</title><link>XiaohanMu.github.io/journals/asia/southeastasia/</link><pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/asia/southeastasia/</guid><description>&lt;p>China-&amp;gt;Vietnam-&amp;gt;Cambodia-&amp;gt;Thailand-&amp;gt;Qatar-&amp;gt;US&lt;br>
+An unique advanture with three of best friends(we know each other almost 10 years since junior high).&lt;/p>
+&lt;h2 id="hoo-chi-minh-citysaigon">&lt;strong>Hoo Chi Minh City(Saigon)&lt;/strong>&lt;/h2>
 &lt;figure>&lt;img src="XiaohanMu.github.io/images/HCMC1.jpg"
  alt="Example" width="200px">&lt;figcaption>
  &lt;p>&lt;strong>Xin chào&lt;/strong>, which means hello in English&lt;/p>
@@ -131,7 +135,7 @@
 &lt;/figure></description></item><item><title>Canada</title><link>XiaohanMu.github.io/journals/canada/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/canada/</guid><description>&lt;h2 id="mississauga">&lt;strong>Mississauga&lt;/strong>&lt;/h2>
 &lt;figure>&lt;img src="XiaohanMu.github.io/images/CA1.jpg"
  alt="Example" width="200px">&lt;figcaption>
- &lt;p>After driving one day and night through the snowstorm from Chicago to Ontario&lt;/p>
+ &lt;p>After driving one day and night through the snowstorm from Chicago to Ontario in year 2022&lt;/p>
  &lt;/figcaption>
 &lt;/figure>
 
@@ -142,14 +146,12 @@
  Your browser does not support the video tag.
  &lt;/video>
  
-&lt;p>Cross-year fireworks over Ontario Lake.
+&lt;p>New Year fireworks over Ontario Lake.
 By the way, winters in Toronto can get pretty chilly!&lt;/p>
 &lt;h2 id="montreal">&lt;strong>Montreal&lt;/strong>&lt;/h2>
 &lt;figure>&lt;img src="XiaohanMu.github.io/images/CA3.jpg"
  alt="Example" width="200px">&lt;figcaption>
- &lt;p>A unique city blending the charm of France with Canadian culture.&lt;/p>
- &lt;/figcaption>
-&lt;/figure></description></item><item><title>Mexico</title><link>XiaohanMu.github.io/journals/mexico/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/mexico/</guid><description>&lt;h2 id="mexico-city">&lt;strong>Mexico City&lt;/strong>&lt;/h2>
+ &lt;p>A unique city blending the charm of France with Canadian culture. A great trip with one of my high school classmates.&lt;/p></description></item><item><title>Mexico</title><link>XiaohanMu.github.io/journals/mexico/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/mexico/</guid><description>&lt;h2 id="mexico-city">&lt;strong>Mexico City&lt;/strong>&lt;/h2>
 &lt;figure>&lt;img src="XiaohanMu.github.io/images/CDMX1.jpg"
  alt="Example small sample" width="200px">&lt;figcaption>
  &lt;p>Plaza de la constitucíon&lt;/p>
