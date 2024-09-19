@@ -204,7 +204,50 @@ An unique advanture with three of best friends(we know each other almost 10 year
 &lt;h2 id="brussel">&lt;strong>Brussel&lt;/strong>&lt;/h2>
 &lt;figure>&lt;img src="XiaohanMu.github.io/images/we4.jpg"
  alt="Example small sample" width="200px">
-&lt;/figure></description></item><item><title>A Glimpse Into My Life</title><link>XiaohanMu.github.io/about/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/about/</guid><description>&lt;p>Hola, I&amp;rsquo;m Alan Mu, a 20-years-old junior at UIUC. I enjoy coding, traveling, &lt;a href="XiaohanMu.github.io/hiking">hiking&lt;/a>, and learning Spanish, also a fan of Marathon. Check out my &lt;a href="XiaohanMu.github.io/traveljournal">Travel Journal&lt;/a> for more details about my adventures.&lt;br>
+&lt;/figure></description></item><item><title>A Glimpse Into My Life</title><link>XiaohanMu.github.io/about/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/about/</guid><description>&lt;a href="XiaohanMu.github.io/spanish" class="text-button">
+ Spanish
+&lt;/a>
+
+&lt;style>
+.text-button {
+display: inline-block;
+font-size: 16px; 
+color: #000000; 
+text-decoration: none;
+border-bottom: 1px solid #000000; 
+padding: 0px; 
+line-height: 1;
+}
+
+.text-button:hover {
+color: #ff0000; 
+border-bottom-color: #ff0000; 
+}
+&lt;/style>
+
+&lt;p>Hola, I&amp;rsquo;m Alan Mu, a 20-years-old junior at UIUC. I enjoy coding, traveling, &lt;a href="XiaohanMu.github.io/hiking">hiking&lt;/a>, and learning Spanish, also a fan of Marathon. Check out my &lt;a href="XiaohanMu.github.io/traveljournal">Travel Journal&lt;/a> for more details about my adventures.&lt;br>
+I spent my childhood in &lt;a href="XiaohanMu.github.io/nanjing">Nanjing&lt;/a>, Jiangsu, and currently living in &lt;a href="XiaohanMu.github.io/urbana">Urbana&lt;/a>, IL.&lt;/p></description></item><item><title>A Glimpse Into My Life</title><link>XiaohanMu.github.io/spanish/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/spanish/</guid><description>&lt;a href="https://xiaohanmu.github.io/about/index" class="text-button">
+ English
+&lt;/a>
+
+&lt;style>
+.text-button {
+display: inline-block;
+font-size: 16px; 
+color: #000000; 
+text-decoration: none;
+border-bottom: 1px solid #000000; 
+padding: 0px; 
+line-height: 1;
+}
+
+.text-button:hover {
+color: #ff0000; 
+border-bottom-color: #ff0000; 
+}
+&lt;/style>
+
+&lt;p>Hola, I&amp;rsquo;m Alan Mu, a 20-years-old junior at UIUC. I enjoy coding, traveling, &lt;a href="XiaohanMu.github.io/hiking">hiking&lt;/a>, and learning Spanish, also a fan of Marathon. Check out my &lt;a href="XiaohanMu.github.io/traveljournal">Travel Journal&lt;/a> for more details about my adventures.&lt;br>
 I spent my childhood in &lt;a href="XiaohanMu.github.io/nanjing">Nanjing&lt;/a>, Jiangsu, and currently living in &lt;a href="XiaohanMu.github.io/urbana">Urbana&lt;/a>, IL.&lt;/p></description></item><item><title>Canada</title><link>XiaohanMu.github.io/journals/canada/</link><pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><guid>XiaohanMu.github.io/journals/canada/</guid><description>&lt;h2 id="mississauga">&lt;strong>Mississauga&lt;/strong>&lt;/h2>
 &lt;figure>&lt;img src="XiaohanMu.github.io/images/CA1.jpg"
  alt="Example" width="200px">&lt;figcaption>
