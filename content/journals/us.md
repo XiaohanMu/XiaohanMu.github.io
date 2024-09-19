@@ -11,3 +11,17 @@ categories = ["Journal"]
 ## **[Urbana, IL](/urbana)** my beloved small town
 
 ## **[Chicago, IL](/journals/chicago)**
+
+## **[Boston, MA](/journals/america/boston)**
+
+## **[Cleveland, OH](/journals/america/cleveland)**
+
+## **[Lake Gevena, WI](/journals/america/lakej)**
+
+## **[New York City, NY](/journals/america/nyc)**
+
+## **[San Francisco, CA](/journals/america/sf)**
+
+## **[Philadelphia, PA](/journals/america/phila)**
+
+## **[Pittsburgh, PA](/journals/america/pitts)**

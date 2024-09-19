@@ -9,11 +9,60 @@
     <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/journals/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Boston</title>
+      <link>//localhost:1313/journals/america/boston/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/america/boston/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/journals/us/&#34;&gt;← Back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;First time in East Coast of USA. Traveling there with my best friend Chris.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/bo1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/bo2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/bo3.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Cleveland</title>
+      <link>//localhost:1313/journals/america/cleveland/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/america/cleveland/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/journals/us/&#34;&gt;← Back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Have been there for three times, staying one month in Huntington, all for church activities.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/cl1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Lake Geneva</title>
+      <link>//localhost:1313/journals/america/lakej/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/america/lakej/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/journals/us/&#34;&gt;← Back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tripped there twice during 2023 and 2024 spring break.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/lj1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/lj2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/lj3.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
       <title>Middle East</title>
       <link>//localhost:1313/journals/asia/middleeast/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/journals/asia/middleeast/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/journals/asia/asiamd&#34;&gt;← Back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;qatarjournalsasiaqatar&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/asia/qatar&#34;&gt;Qatar&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#qatarjournalsasiaqatar&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;the-united-arab-emiratesjournalsasiauae&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/asia/uae&#34;&gt;The United Arab Emirates&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#the-united-arab-emiratesjournalsasiauae&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>New York City</title>
+      <link>//localhost:1313/journals/america/nyc/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/america/nyc/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/journals/us/&#34;&gt;← Back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Visited my friend in NYU during 2022 winter vacation.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/nyc1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/nyc2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Philadelphia</title>
+      <link>//localhost:1313/journals/america/phila/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/america/phila/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/journals/us/&#34;&gt;← Back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/ph1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Outside Philadelphia Museum of Art&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/ph2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;City Hall&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Pittsburgh</title>
+      <link>//localhost:1313/journals/america/pitts/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/america/pitts/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/journals/us/&#34;&gt;← Back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Visted my best friend Chris who studying Biology in CMU during 2023 summer vacation.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/pt1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Carnegie Mellon University&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>San Francisco</title>
+      <link>//localhost:1313/journals/america/sf/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journals/america/sf/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/journals/us/&#34;&gt;← Back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/sf1.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/sf2.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Golden Bridge&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/images/sf3.jpg&#34;&#xA;    alt=&#34;Example small sample&#34; width=&#34;200px&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Yosemite National Park&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Asia</title>
@@ -111,7 +160,7 @@
       <link>//localhost:1313/journals/us/</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/journals/us/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/journals/northamerica/&#34;&gt;← Back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;urbana-ilurbana-my-beloved-small-town&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/urbana&#34;&gt;Urbana, IL&lt;/a&gt;&lt;/strong&gt; my beloved small town &lt;a href=&#34;#urbana-ilurbana-my-beloved-small-town&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;chicago-iljournalschicago&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/chicago&#34;&gt;Chicago, IL&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#chicago-iljournalschicago&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/journals/northamerica/&#34;&gt;← Back&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;urbana-ilurbana-my-beloved-small-town&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/urbana&#34;&gt;Urbana, IL&lt;/a&gt;&lt;/strong&gt; my beloved small town &lt;a href=&#34;#urbana-ilurbana-my-beloved-small-town&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;chicago-iljournalschicago&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/chicago&#34;&gt;Chicago, IL&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#chicago-iljournalschicago&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;boston-majournalsamericaboston&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/america/boston&#34;&gt;Boston, MA&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#boston-majournalsamericaboston&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;cleveland-ohjournalsamericacleveland&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/america/cleveland&#34;&gt;Cleveland, OH&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#cleveland-ohjournalsamericacleveland&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;lake-gevena-wijournalsamericalakej&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/america/lakej&#34;&gt;Lake Gevena, WI&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#lake-gevena-wijournalsamericalakej&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;new-york-city-nyjournalsamericanyc&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/america/nyc&#34;&gt;New York City, NY&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#new-york-city-nyjournalsamericanyc&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;san-francisco-cajournalsamericasf&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/america/sf&#34;&gt;San Francisco, CA&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#san-francisco-cajournalsamericasf&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;philadelphia-pajournalsamericaphila&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/america/phila&#34;&gt;Philadelphia, PA&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#philadelphia-pajournalsamericaphila&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&#34;pittsburgh-pajournalsamericapitts&#34;&gt;&lt;strong&gt;&lt;a href=&#34;//localhost:1313/journals/america/pitts&#34;&gt;Pittsburgh, PA&lt;/a&gt;&lt;/strong&gt; &lt;a href=&#34;#pittsburgh-pajournalsamericapitts&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Western Europe</title>
