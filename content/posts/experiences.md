@@ -3,7 +3,6 @@ title = 'Working Experiences'
 date = 2024-09-16T04:02:13-05:00
 draft = false
 weight=2
-tags = ["career"]
 categories = ["Career"]
 summary = "Software Engineer Intern at ZTE Corporation, Research Assistant at UIUC"
 +++

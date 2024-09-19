@@ -62,9 +62,6 @@
     <loc>//localhost:1313/journals/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/life/</loc>
-    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/journals/northamerica/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -86,17 +83,11 @@
     <loc>//localhost:1313/journals/asia/southeastasia/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/journals/us/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/journals/westerneuro/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/career/</loc>
-    <lastmod>2024-09-16T04:02:13-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/education/</loc>
     <lastmod>2024-09-16T04:02:13-05:00</lastmod>
@@ -112,5 +103,7 @@
   </url><url>
     <loc>//localhost:1313/traveljournal/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
