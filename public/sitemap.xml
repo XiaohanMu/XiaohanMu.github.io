@@ -2,109 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xiaohanmu.github.io/posts/education/</loc>
+    <loc>//localhost:1313/posts/education/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/posts/experiences/</loc>
+    <loc>//localhost:1313/posts/experiences/</loc>
     <lastmod>2024-09-16T04:02:13-05:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/posts/honors/</loc>
+    <loc>//localhost:1313/posts/project/</loc>
     <lastmod>2024-09-16T04:02:13-05:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/</loc>
+    <loc>//localhost:1313/posts/honors/</loc>
+    <lastmod>2024-09-16T04:02:13-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/resume/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/spanish/</loc>
+    <loc>//localhost:1313/spanish/</loc>
     <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/zhongwen/</loc>
+    <loc>//localhost:1313/zhongwen/</loc>
     <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/asia/asiamd/</loc>
+    <loc>//localhost:1313/journals/asia/asiamd/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/categories/</loc>
+    <loc>//localhost:1313/categories/career/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/chicago/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/asia/china/</loc>
+    <loc>//localhost:1313/journals/chicago/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/asia/eastasia/</loc>
+    <loc>//localhost:1313/journals/asia/china/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/uk/</loc>
+    <loc>//localhost:1313/journals/asia/eastasia/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/euro/</loc>
+    <loc>//localhost:1313/journals/uk/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/iceland/</loc>
+    <loc>//localhost:1313/journals/euro/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/asia/japan/</loc>
+    <loc>//localhost:1313/journals/iceland/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/categories/journal/</loc>
+    <loc>//localhost:1313/journals/asia/japan/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/</loc>
+    <loc>//localhost:1313/categories/journal/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/tags/life/</loc>
+    <loc>//localhost:1313/journals/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/northamerica/</loc>
+    <loc>//localhost:1313/tags/life/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/hiking/</loc>
+    <loc>//localhost:1313/journals/northamerica/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/nanjing/</loc>
+    <loc>//localhost:1313/hiking/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/urbana/</loc>
+    <loc>//localhost:1313/nanjing/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/posts/</loc>
+    <loc>//localhost:1313/urbana/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/southafrica/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/asia/southeastasia/</loc>
+    <loc>//localhost:1313/journals/southafrica/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/tags/</loc>
+    <loc>//localhost:1313/journals/asia/southeastasia/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/us/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/westerneuro/</loc>
+    <loc>//localhost:1313/journals/us/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/tags/career/</loc>
+    <loc>//localhost:1313/journals/westerneuro/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/career/</loc>
     <lastmod>2024-09-16T04:02:13-05:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/categories/career/</loc>
+    <loc>//localhost:1313/categories/education/</loc>
     <lastmod>2024-09-16T04:02:13-05:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/categories/education/</loc>
-    <lastmod>2024-09-16T04:02:13-05:00</lastmod>
-  </url><url>
-    <loc>https://xiaohanmu.github.io/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/canada/</loc>
+    <loc>//localhost:1313/journals/canada/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/journals/mexico/</loc>
+    <loc>//localhost:1313/journals/mexico/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaohanmu.github.io/traveljournal/</loc>
+    <loc>//localhost:1313/traveljournal/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url>
 </urlset>

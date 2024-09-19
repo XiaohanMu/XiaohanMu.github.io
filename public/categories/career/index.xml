@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Career on Alan Mu</title>
-    <link>https://xiaohanmu.github.io/categories/career/</link>
+    <link>//localhost:1313/categories/career/</link>
     <description>Recent content in Career on Alan Mu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2024 04:02:13 -0500</lastBuildDate>
-    <atom:link href="https://xiaohanmu.github.io/categories/career/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/career/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Working Experiences</title>
-      <link>https://xiaohanmu.github.io/posts/experiences/</link>
+      <link>//localhost:1313/posts/experiences/</link>
       <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
-      <guid>https://xiaohanmu.github.io/posts/experiences/</guid>
+      <guid>//localhost:1313/posts/experiences/</guid>
       <description>Software Engineer Intern at ZTE Corporation, Research Assistant at UIUC</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/posts/project/</link>
+      <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
+      <guid>//localhost:1313/posts/project/</guid>
+      <description>Image Quilting Algorithm Implementation, EasyShare, Memorandum App</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>//localhost:1313/posts/resume/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/resume/</guid>
+      <description>Here I attach my resume</description>
     </item>
   </channel>
 </rss>

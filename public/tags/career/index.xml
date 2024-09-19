@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Career on Alan Mu</title>
-    <link>https://xiaohanmu.github.io/tags/career/</link>
+    <link>//localhost:1313/tags/career/</link>
     <description>Recent content in Career on Alan Mu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Sep 2024 04:02:13 -0500</lastBuildDate>
-    <atom:link href="https://xiaohanmu.github.io/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/career/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Working Experiences</title>
-      <link>https://xiaohanmu.github.io/posts/experiences/</link>
+      <link>//localhost:1313/posts/experiences/</link>
       <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
-      <guid>https://xiaohanmu.github.io/posts/experiences/</guid>
+      <guid>//localhost:1313/posts/experiences/</guid>
       <description>Software Engineer Intern at ZTE Corporation, Research Assistant at UIUC</description>
     </item>
   </channel>
