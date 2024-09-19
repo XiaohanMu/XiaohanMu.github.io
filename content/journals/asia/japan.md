@@ -6,6 +6,9 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/journals/asia/eastasia)
+
+
 ## **Tokyo**
 
 {{< figure src="/images/JP1.jpg" alt="Example small sample" width="200px" >}}

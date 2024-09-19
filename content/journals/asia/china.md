@@ -5,3 +5,5 @@ draft= false
 type= "page"
 categories = ["Journal"]
 +++
+
+[← Back](/journals/asia/eastasia)

@@ -6,6 +6,8 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/about/)
+
 {{< figure src="/images/NJ1.jpg" alt="Example" width="200px" caption="Xuanwu Lake">}}
 
 {{< figure src="/images/NJ2.jpg" alt="Example" width="200px" caption="A view from Mount Zijin">}}
