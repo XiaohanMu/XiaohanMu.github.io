@@ -15,5 +15,12 @@
       <guid>//localhost:1313/tags/life/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Career</title>
+      <link>//localhost:1313/tags/career/</link>
+      <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
+      <guid>//localhost:1313/tags/career/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
