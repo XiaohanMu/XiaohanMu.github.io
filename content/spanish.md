@@ -1,11 +1,11 @@
 ---
-title: "A Glimpse Into My Life"
-date: 2024-09-16
+title: "Una Mirada a Mi Vida"
+date: 2024-09-19
 draft: false
 
 ---
 {{< buttones url="https://xiaohanmu.github.io/about/index" text="Español(ES)" >}}
 
-Hola, I'm Alan Mu, a 20-years-old junior at UIUC. I enjoy coding, traveling, [hiking](/hiking), and learning Spanish, also a fan of Marathon. Check out my [Travel Journal](/traveljournal) for more details about my adventures.  
-I spent my childhood in [Nanjing](/nanjing), Jiangsu, and currently living in [Urbana](/urbana), IL. 
+Hola, todos. Soy Alan, un estudiante de tercer año en UIUC, tengo 20 años. Me gusta programar, viajar, [hacer senderismo](/hiking), y aprender español por pasatiempo. ¡También soy un fanático del maratón! Echa un vistazo a mi [Diario de Viaje](/traveljournal) para conocer más detalles sobre mis aventuras. (Te cuento un secreto, estoy planeando un viaje por Sudamérica...  
+Pasé mi infancia en [Nanjing](/nanjing) y actualmente vivo en [Urbana](/urbana), IL. 
   
