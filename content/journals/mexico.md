@@ -6,6 +6,7 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/journals/northamerica/)
 
 ## **Mexico City**
 

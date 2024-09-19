@@ -6,6 +6,7 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/traveljournal)
 
 A family trip with my sister and parents.
 ## **Johannesburg**

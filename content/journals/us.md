@@ -6,6 +6,8 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/journals/northamerica/)
+
 ## **[Urbana, IL](/urbana)** my beloved small town
 
 ## **[Chicago, IL](/journals/chicago)**

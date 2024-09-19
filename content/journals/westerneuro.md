@@ -6,6 +6,8 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/journals/euro)
+
 ## **Paris**
 
 {{< figure src="/images/we1.jpg" alt="Example small sample" width="200px" caption="">}}

@@ -5,6 +5,7 @@ draft= false
 type= "page"
 categories = ["Journal"]
 +++
+[← Back](/journals/euro)
 
 First time cross-continent solo trip.
 ## **Reykjavik**

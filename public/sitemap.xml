@@ -20,6 +20,18 @@
     <loc>//localhost:1313/</loc>
     <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/journal/</loc>
+    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/</loc>
+    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/asia/middleeast/</loc>
+    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/spanish/</loc>
     <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -30,9 +42,6 @@
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/career/</loc>
-    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/journals/chicago/</loc>
@@ -56,12 +65,6 @@
     <loc>//localhost:1313/journals/asia/japan/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/journal/</loc>
-    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/journals/</loc>
-    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/journals/northamerica/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,10 +80,16 @@
     <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/journals/asia/qatar/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/journals/southafrica/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/journals/asia/southeastasia/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/journals/asia/uae/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/journals/us/</loc>

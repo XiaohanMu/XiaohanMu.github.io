@@ -6,6 +6,8 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/journals/euro)
+
 A family trip with my sister, aunt, and uncle.
 ## **London**
 

@@ -6,6 +6,7 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/journals/asia/asiamd)
 ## **[Qatar](/journals/asia/qatar)**
 
 ## **[The United Arab Emirates](/journals/asia/uae)**

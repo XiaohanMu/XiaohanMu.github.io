@@ -6,20 +6,20 @@
     <description>Recent content in Categories on Alan Mu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal</title>
+      <link>//localhost:1313/categories/journal/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/journal/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Career</title>
       <link>//localhost:1313/categories/career/</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/career/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Journal</title>
-      <link>//localhost:1313/categories/journal/</link>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/journal/</guid>
       <description></description>
     </item>
     <item>

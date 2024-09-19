@@ -6,6 +6,7 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/journals/us/)
 
 {{< figure src="/images/ch1.jpg" alt="Example small sample" width="200px" caption="">}}
 

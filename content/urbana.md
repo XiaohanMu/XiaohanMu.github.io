@@ -6,6 +6,8 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/about/)
+
 {{< figure src="/images/Ur1.jpg" alt="Example" width="200px" caption="Urbana's winter">}}
 
 {{< figure src="/images/Ur2.jpg" alt="Example" width="200px" caption="Siebel Computer Science Center">}}

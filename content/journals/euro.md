@@ -6,6 +6,7 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/traveljournal)
 ## **[England](/journals/uk)**
 
 ## **[Iceland](/journals/iceland)**

@@ -6,6 +6,8 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/journals/asia/asiamd)
+
 China->Vietnam->Cambodia->Thailand->Qatar->US  
 An unique advanture with three of best friends(we know each other almost 10 years since junior high).
 ## **Hoo Chi Minh City(Saigon)**
