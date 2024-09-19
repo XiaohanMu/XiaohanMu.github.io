@@ -10,3 +10,8 @@ draft: false
 我在[南京](/nanjing)长大。（超级喜欢鸭血粉丝汤）  
 现居[伊利诺伊州香槟](/urbana)。（香槟确实有点无聊...
   
+{{< github_icon fill="#000000" width="30" height="30" >}}  
+<br>
+{{< ins fill="#000000" width="20" height="20" >}}  
+<br>
+{{< netease fill="#000000" width="20" height="20" >}}  
