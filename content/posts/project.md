@@ -5,9 +5,10 @@ draft = true
 weight=3
 categories = ["Career"]
 summary = "Image Quilting Algorithm Implementation, EasyShare, Memorandum App"
-
-
 +++
+
+[← Back](/)
+
 Here is a detailed overview of my projects:
 
 ### **EasyShare**

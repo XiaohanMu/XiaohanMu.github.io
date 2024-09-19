@@ -7,4 +7,6 @@ categories = ["Career"]
 summary = "Here I attach my resume"
 +++
 
+[← Back](/)
+
 Here I attach my [Resume]( /files/resume.pdf).

@@ -7,6 +7,8 @@ categories = ["Career"]
 summary = "Software Engineer Intern at ZTE Corporation, Research Assistant at UIUC"
 +++
 
+[← Back](/)
+
 Here is a detailed overview of my work history:
 
 ### **May 2024 - August 2024: Software Engineer Intern at ZTE Corporation**

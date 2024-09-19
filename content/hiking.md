@@ -6,6 +6,8 @@ type= "page"
 categories = ["Journal"]
 +++
 
+[← Back](/about)
+
 {{< figure src="/images/hk5.jpg" alt="Example" width="200px" caption="Mount Tai(first time solo trip), Shandong">}}
 
 {{< figure src="/images/hk4.jpg" alt="Example" width="200px" caption="Daocheng Yading, Sichuan">}}
