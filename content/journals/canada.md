@@ -9,7 +9,7 @@ categories = ["Journal"]
 [← Back](/journals/northamerica/)
 
 ## **Mississauga**
-{{< figure src="/images/CA1.jpg" alt="Example" width="200px" caption="After driving one day and night through the snowstorm from Chicago to Ontario in year 2022">}}
+{{< figure src="/images/CA1.jpg" alt="Example" width="200px" caption="After driving one day and night through the snowstorm from Chicago to Ontario during Christmas in 2022">}}
 
 ## **Toronto**
 <video width="320" height="240" controls>

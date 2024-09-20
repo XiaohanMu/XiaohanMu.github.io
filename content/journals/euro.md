@@ -12,3 +12,7 @@ categories = ["Journal"]
 ## **[Iceland](/journals/iceland)**
 
 ## **[Western Europe](/journals/westerneuro)**
+
+## **[Central Europe](/journals/mideuro)**
+
+## **[Spain](/journals/spain)**

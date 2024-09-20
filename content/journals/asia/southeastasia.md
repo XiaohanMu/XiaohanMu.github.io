@@ -20,6 +20,7 @@ An unique advanture with three of best friends(we know each other almost 10 year
 ## **Siem Reap**
 {{< figure src="/images/SR1.jpg" alt="Example" width="200px" caption="Memorable three days exploring Angkor Wat" >}}
 
+{{< figure src="/images/SR2.jpg" alt="Example" width="200px" caption="" >}}
 
 ## **Bangkok**
 {{< figure src="/images/BK1.jpg" alt="Example" width="200px" >}}

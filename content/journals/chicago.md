@@ -8,6 +8,8 @@ categories = ["Journal"]
 
 [← Back](/journals/us/)
 
+About two-hour's drive from Urbana.
+
 {{< figure src="/images/ch1.jpg" alt="Example small sample" width="200px" caption="">}}
 
 {{< figure src="/images/ch2.jpg" alt="Example small sample" width="200px" caption="">}}

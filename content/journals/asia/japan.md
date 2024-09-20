@@ -8,6 +8,7 @@ categories = ["Journal"]
 
 [← Back](/journals/asia/eastasia)
 
+Solo trip from San Francisco to Japan.
 
 ## **Tokyo**
 
