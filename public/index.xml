@@ -23,11 +23,25 @@
       <description>Software Engineer Intern at ZTE Corporation, Research Assistant at UIUC</description>
     </item>
     <item>
+      <title>Projects</title>
+      <link>//localhost:1313/posts/project/</link>
+      <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
+      <guid>//localhost:1313/posts/project/</guid>
+      <description>Image Quilting Algorithm Implementation, EasyShare, Memorandum App</description>
+    </item>
+    <item>
       <title>Honor</title>
       <link>//localhost:1313/posts/honors/</link>
       <pubDate>Mon, 16 Sep 2024 04:02:13 -0500</pubDate>
       <guid>//localhost:1313/posts/honors/</guid>
       <description>UIUC Dean&amp;rsquo;s List, 2022fa, 2023sp, 2023fa, 2024sp</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>//localhost:1313/posts/resume/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/resume/</guid>
+      <description>Here I attach my resume</description>
     </item>
     <item>
       <title>Boston</title>

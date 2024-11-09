@@ -8,8 +8,14 @@
     <loc>//localhost:1313/posts/experiences/</loc>
     <lastmod>2024-09-16T04:02:13-05:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/posts/project/</loc>
+    <lastmod>2024-09-16T04:02:13-05:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/honors/</loc>
     <lastmod>2024-09-16T04:02:13-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/resume/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2024-09-19T00:00:00+00:00</lastmod>
@@ -65,6 +71,9 @@
     <loc>//localhost:1313/journals/asia/asiamd/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/career/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/journals/chicago/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -118,9 +127,6 @@
   </url><url>
     <loc>//localhost:1313/journals/westerneuro/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/career/</loc>
-    <lastmod>2024-09-16T04:02:13-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/education/</loc>
     <lastmod>2024-09-16T04:02:13-05:00</lastmod>
